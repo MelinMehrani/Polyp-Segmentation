@@ -1,1 +1,1 @@
-<b>Colorectal polyp Segmentation using Kvasir-SEG dataset
+<b>Colorectal polyp Segmentation using Kvasir-SEG dataset and U-Net architecture
